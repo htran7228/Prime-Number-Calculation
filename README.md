@@ -1,3 +1,3 @@
 # Prime-Number-Calculation
 
-This will run on Unix system 
+This is to be will runned and executed on Unix  
